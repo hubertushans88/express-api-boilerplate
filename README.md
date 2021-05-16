@@ -24,5 +24,6 @@ Simple Express JS API with MongoDB
 
 ## Planned
 - JWT
+- Docker Integration
 
  
