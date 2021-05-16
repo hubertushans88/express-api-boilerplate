@@ -1,4 +1,4 @@
-# Express-API (Personal Boilerplate)
+# Express-API (Personal) Boilerplate
 Simple Express JS API with MongoDB 
 
 ## Using
